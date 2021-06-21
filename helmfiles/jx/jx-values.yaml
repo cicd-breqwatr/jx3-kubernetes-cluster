@@ -24,8 +24,8 @@ jxRequirements:
     chartRepository: http://bucketrepo.jx.svc.cluster.local/bucketrepo/charts
     clusterName: kind
     devEnvApprovers:
-    - todo
-    environmentGitOwner: todo
+    - cicd-breqwatr
+    environmentGitOwner: cicd-breqwatr
     gitKind: github
     gitName: github
     gitServer: https://github.com
