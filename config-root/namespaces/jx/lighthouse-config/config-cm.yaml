@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - cicd-breqwatr/jx3-kubernetes-cluster
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.10.106.250.3.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
